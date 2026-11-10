@@ -1,0 +1,8 @@
+.venv/
+.model_cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+.horse_angles_*.mp4
+tests/
+videos/
